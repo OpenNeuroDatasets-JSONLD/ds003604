@@ -38,7 +38,8 @@
   **./sub-5061/ses-5/func/sub-5061_ses-5_task-Plaus_acq-D3S6_run-02_bold.json
   **./sub-5347/ses-5/func/sub-5347_ses-5_task-Plaus_acq-D1S4_run-01_bold.json
   **./sub-5347/ses-5/func/sub-5347_ses-5_task-Plaus_acq-D1S3_run-02_bold.json
-* The calculation of reaction time (rt) and accuracy (acc) for each run each condition each participant is documented in derivatives/func_mv_acc_rt/Acc_RT_Calculation.doc
+
+* The calculation of reaction time (rt) and accuracy (acc) for each condition within each run for each participant is documented in ./derivatives/func_mv_acc_rt/Acc_RT_Calculation.doc
 
 
 
