@@ -20,7 +20,8 @@
 "TermURL": "snomed:248153007",
 "Label": ""
 }
-}
+},
+"VariableType": "Categorical"
 }
 },
 "handedness_ses-5": {
@@ -74,7 +75,7 @@
 "TermURL": "nb:ParticipantID",
 "Label": ""
 },
-"Identifies": "participant"
+"VariableType": "Identifier"
 },
 "Description": "There should have been a description here, but there wasn't. :("
 }
